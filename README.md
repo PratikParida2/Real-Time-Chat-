@@ -6,7 +6,7 @@ A full-stack real-time chat application built using the **MERN** stack with **So
 
 ## 🔧 Tech Stack
 
-- **Frontend:** React.js, TailwindCSS, Redux
+- **Frontend:** React.js, TailwindCSS, Zustand
 - **Backend:** Node.js, Express.js, MongoDB
 - **Real-Time:** Socket.io
 - **Auth:** JWT (JSON Web Tokens)
